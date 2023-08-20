@@ -1,4 +1,0 @@
-# installing dependencies for plot_digits_classification.py in repository 
-pip install numpy
-pip install matplotlib
-pip install scikit-learn
